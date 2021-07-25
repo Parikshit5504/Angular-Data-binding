@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularData-bindaing';
+
+  name = "";
+
+  write="";
+
+//   showMe: boolean = false
+
+// doToggle() {
+// this.showMe = !this.showMe
+// }
 }
